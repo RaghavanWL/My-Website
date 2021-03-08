@@ -1,0 +1,111 @@
+body {
+    color: #40514E;
+    text-align: center;
+    font-family: 'Montserrat', serif;
+    background-color: #282c2e;
+    /* background-color: #181A1B; */
+    color: #bab4ab;
+}
+
+#pro {
+  margin-bottom: 50px;
+}
+
+#mountainhr {
+  margin: -5px;
+  margin-bottom: 20px;
+}
+
+h1 {
+
+  font-family: 'Sacramento', cursive;
+  font-size: 6.25rem;
+  color: #fff;
+  margin: 20px auto 0 auto;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #fff;
+
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-container {
+  background-color: #282c2e;
+  position: relative;
+  padding-top: 200px;
+}
+
+.middle-container {
+}
+
+#hello{
+  color: #bab4ab;
+}
+
+.profile{
+  text-align: left;
+  margin: 100px auto 100px auto;
+}
+
+#raghavan-img{
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+  margin-top: -80px;
+}
+
+.bottom-container {
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+  margin: -50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+  margin: -50px;
+}
+
+.footer-link {
+  margin-right: 20px;
+}
+
+.btn {
+  color: tomato;
+  display: inline-block;
+  text-decoration: none;
+  margin-bottom: 20px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto 100px auto;
+  text-align: left;
+}
+
+.code-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chilli-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+  margin-top: -50px;
+}
+
+.gg {
+  margin-bottom: 200px;
+}
